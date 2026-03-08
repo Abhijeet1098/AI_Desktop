@@ -1,0 +1,7 @@
+opencv-python
+face-recognition
+SpeechRecognition
+pyautogui
+pyttsx3
+pyaudio
+openai
